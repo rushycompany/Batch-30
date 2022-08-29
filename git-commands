@@ -1,0 +1,5 @@
+git config --global user.email youremail@example.com
+git status
+command git checkout -b <branch-name>
+git remote –v
+git remote add origin <host-or-remoteURL>
